@@ -1,6 +1,8 @@
 #Plot 1 
 
-# Note: we must run the `source.r` file because here we load ours dataset
+#Note: we must run the `source.r` file because there we load ours dataset, 
+
+#source("Source.r")
 
 #format
 png(file = "plot1.png", width=480, height=480)

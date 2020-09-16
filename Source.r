@@ -24,7 +24,7 @@ df$DateTime<-ymd_hms(paste(df$Date,df$Time))
 
 
 #reviwing dataset
-str(df)
+#str(df)
 
 
 
