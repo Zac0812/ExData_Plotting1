@@ -28,7 +28,4 @@ str(df)
 
 
 
-#Plot 1 
-hist(df$Global_active_power, col = "red", xlab = "Global Active Power(Kilowats)", 
-     main = "Global Active Power")
 
